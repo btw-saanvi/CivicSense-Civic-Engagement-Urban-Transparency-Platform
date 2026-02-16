@@ -1,11 +1,25 @@
-<h1 align="center">🏛 CivicSense</h1>
-<h3 align="center">A Production-Grade Civic Engagement & Urban Transparency Platform</h3>
+<div align="center">
 
-<p align="center">
-  Report. Participate. Improve.
-</p>
+# 🏛 CivicSense
 
-<hr>
+### 🚀 Production-Grade Civic Engagement & Urban Transparency Platform
+
+<img src="https://img.shields.io/badge/Status-Active-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-Node.js-1E1E1E?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Frontend-React-1E1E1E?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Database-PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/Cache-Redis-1E1E1E?style=for-the-badge&logo=redis" />
+<img src="https://img.shields.io/badge/Containerized-Docker-1E1E1E?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-1E1E1E?style=for-the-badge&logo=githubactions" />
+<img src="https://img.shields.io/badge/Payments-Razorpay-1E1E1E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Email-SendGrid-1E1E1E?style=for-the-badge" />
+
+<br><br>
+
+<strong>Report. Participate. Improve.</strong>
+
+</div>
+
 
 <h2> Overview</h2>
 
